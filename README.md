@@ -9,7 +9,7 @@ This project focuses on pandas library usage and simple statistics methods to pe
 
 ### Running the program:
 
-You can input 'python bikeshare.py' on your terminal to run this program. I use Anaconda's command prompt on a Windows 10 machine.
+You can input 'python bikeshare_2.py' on your terminal to run this program. I use Anaconda's command prompt on a Windows 10 machine.
 
 ### Program Details:
 
